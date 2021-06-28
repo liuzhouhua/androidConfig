@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="default_station" type="PLAIN_TEXT" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="saleTime" type="PLAIN_TEXT" />
+      <mapping pattern="default_cdn" type="PLAIN_TEXT" />
+      <mapping pattern="PhoneInfo" type="PLAIN_TEXT" />
+      <mapping pattern="switch" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="lv" type="PLAIN_TEXT" />
+      <mapping ext="bundle" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

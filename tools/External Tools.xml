@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javah" description="根据java文件生成.h文件" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files\Android\Android Studio\jre\bin\javah.exe" />
+      <option name="PARAMETERS" value="-d $ModuleFileDir$\src\main\jni $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/src/main/java" />
+    </exec>
+  </tool>
+</toolSet>

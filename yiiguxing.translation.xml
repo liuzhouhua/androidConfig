@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The system bootloader version number" />
+      <item value="The consumer-visible brand with which the product/hardware will be associated, if any" />
+      <item value="The internal value used by the underlying source control to * represent this build" />
+      <item value="The user-visible version string" />
+      <item value="dimension" />
+      <item value="inch" />
+      <item value="per" />
+      <item value="The exact physical pixels per inch of the screen in the X dimension" />
+      <item value="A scaling factor for fonts displayed on the display" />
+      <item value="density" />
+      <item value="The logical density of the display" />
+      <item value="normalize" />
+      <item value="compressed" />
+      <item value="neighboring" />
+      <item value="PERMISSION GRANTED" />
+      <item value="TYPE GRAVITY" />
+      <item value="resolution" />
+      <item value="A constant describing an accelerometer sensor type" />
+      <item value="banner" />
+      <item value="industrial" />
+      <item value="overall" />
+      <item value="board" />
+      <item value="underlying" />
+      <item value="granting" />
+      <item value="category" />
+      <item value="deny" />
+      <item value="callee Class" />
+      <item value="callee Pkg" />
+      <item value="dynamic" />
+      <item value="amount" />
+      <item value="执行" />
+      <item value="indirectly" />
+      <item value="参数" />
+      <item value="third part icon" />
+      <item value="Did you miss a colon earlier" />
+      <item value="colon" />
+      <item value="Note: this method is only intended for debugging and presenting * task management user interfaces&lt;/b&gt;. This should never be used for * core logic in an application, such as deciding between different * behaviors based on the information found here. Such uses are * &lt;em&gt;not&lt;/em&gt; supported, and will likely break in the future. For * example, if multiple applications can be actively running at the * same time, assumptions made about the meaning of the data here for * purposes of control flow will be incorrect." />
+      <item value="param triggerAtMillis time in milliseconds that the alarm should first * go off" />
+      <item value="trigger At Millis" />
+      <item value="triggerAtMillis time in milliseconds that the alarm should first * go off, using the appropriate clock (depending on the alarm type). This * is inexact: the alarm will not fire before this time, but there may be a * delay of almost an entire alarm interval before the first invocation of * the alarm" />
+      <item value="time in milliseconds that the alarm should first * go off, using the appropriate clock (depending on the alarm type). This * is inexact: the alarm will not fire before this time, but there may be a * delay of almost an entire alarm interval before the first invocation of * the alarm." />
+      <item value="Returns the index within this char sequence of the first occurrence of the specified [string], * starting from the specified" />
+      <item value="Schedule a repeating alarm that has inexact trigger time requirements; * for example, an alarm that repeats every hour, but not necessarily at * the top of every hour. These alarms are more power-efficient than * the strict recurrences traditionally supplied by {@link #setRepeating}, since the * system can adjust alarms' delivery times to cause them to fire simultaneously, * avoiding waking the device from sleep more than necessary." />
+      <item value="the sources of authentication keys or null" />
+      <item value="Flags indicating which meta keys are currently pressed." />
+      <item value="Send a key event to the currently focused window/view and wait for it to * be processed. Finished at some point after the recipient has returned * from its event processing, though it may &lt;em&gt;not&lt;/em&gt; have completely * finished reacting from the event -- for example, if it needs to update * its display as a result, it may still be in the process of doing that." />
+      <item value="Sends an up and down key event sync to the currently focused window." />
+      <item value="Terminates this timer, discarding any currently scheduled tasks. * Does not interfere with a currently executing task (if it exists). * Once a timer has been terminated, its execution thread terminates * gracefully, and no more tasks may be scheduled on it." />
+      <item value="&lt;p&gt;Note that trailing format specifiers, specifiers that * determine the type of a floating-point literal * ({@code 1.0f} is a {@code float} value; * {@code 1.0d} is a {@code double} value), do * &lt;em&gt;not&lt;/em&gt; influence the results of this method. In other * words, the numerical value of the input string is converted * directly to the target floating-point type. In general, the * two-step sequence of conversions, string to {@code double} * followed by {@code double} to {@code float}, is * &lt;em&gt;not&lt;/em&gt; equivalent to converting a string directly to * {@code float}. For example, if first converted to an * intermediate {@code double} and then to * {@code float}, the string&lt;br&gt; * {@code &quot;1.00000017881393421514957253748434595763683319091796875001d&quot;}&lt;br&gt; * results in the {@code float} value * {@code 1.0000002f}; if the string is converted directly to * {@code float}, &lt;code&gt;1.000000&lt;b&gt;1&lt;/b&gt;f&lt;/code&gt; results." />
+      <item value="This method blocks until the Atom returns. The result of the Atom's evaluation is used to * create a new instance of WebInteraction which can be used to access the result of the Atom's * evaluation" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
