@@ -8,8 +8,8 @@
       <mapping pattern="default_cdn" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="saleTime" type="PLAIN_TEXT" />
-      <mapping pattern="PhoneInfo" type="PLAIN_TEXT" />
       <mapping pattern="default_station" type="PLAIN_TEXT" />
+      <mapping pattern="PhoneInfo" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping ext="lv" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
